@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Small app to search a user's repositories with GitHub API.
+
+## Seed Project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
