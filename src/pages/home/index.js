@@ -31,7 +31,7 @@ function App(props) {
   return (
     <S.HomeContainer>
     <S.Content>
-    <S.Input className="form" placeholder="primeiro nome" value={user} onChange={e => setUser(e.target.value)}/>
+    <S.Input className="form" placeholder="username" value={user} onChange={e => setUser(e.target.value)}/>
     <S.Button type="button" onClick={handleSearch}>Pesquisar</S.Button>
     </S.Content>
     {
